@@ -60,34 +60,6 @@ The application provides secure user authentication and authorization, product m
 
 * Postman
 
-## 📂 Project Structure
-
-src
-├── controller
-│ ├── AuthController
-│ ├── CartController
-│ └── OrderController
-│
-├── service
-│ ├── AuthService
-│ ├── CartService
-│ └── OrderService
-│
-├── repository
-│ ├── UserRepository
-│ ├── CartRepository
-│ └── OrderRepository
-│
-├── entity
-│ ├── User
-│ ├── Product
-│ ├── Cart
-│ └── Order
-│
-├── security
-│ ├── JwtFilter
-│ ├── SecurityConfig
-│ └── CustomUserDetailsService
 
 ## 🔐 Authentication Flow
 
@@ -137,9 +109,7 @@ Bearer <JWT_TOKEN>
 
 ## ⚙️ Installation & Setup
 
-### Clone Repository
 
-git clone https://github.com/your-username/ecommerce-backend-system.git
 
 ### Navigate To Project
 
@@ -161,9 +131,6 @@ mvn clean install
 
 mvn spring-boot:run
 
-Application will start on:
-
-http://localhost:8080
 
 ## 🧪 Testing APIs
 
@@ -188,9 +155,8 @@ Use Postman to test APIs.
 Abhishek
 
 ### GitHub
-
-https://github.com/your-github-username
+https://github.com/abhishekkardile27
 
 ### LinkedIn
 
-https://linkedin.com/in/your-linkedin-profile
+www.linkedin.com/in/abhishek-kardile-10372a324
